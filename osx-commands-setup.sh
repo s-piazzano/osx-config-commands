@@ -24,3 +24,4 @@ brew cask install visual-studio-code
         #DotENV
         #Material Icon Theme
         #Vetur
+        #filesize
