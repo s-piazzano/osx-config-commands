@@ -13,8 +13,10 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
     #Commands
     nvm install (node version stable + latest)
     nvm use (node version that you want use)
-#npm
+#npm commands
 npm install eslint --save-dev
+#Postman
+brew cask install postman
 #Browser
 brew cask install firefox
 #Code Editor
@@ -24,4 +26,5 @@ brew cask install visual-studio-code
         #DotENV
         #Material Icon Theme
         #Vetur
+        #ESLint
         #filesize
