@@ -14,7 +14,10 @@ wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
     nvm install (node version stable + latest)
     nvm use (node version that you want use)
 #npm commands
-npm install eslint --save-dev
+    #Global
+    npm i -g yarn
+    #Project
+    npm install eslint --save-dev
 #Postman
 brew cask install postman
 #Browser
