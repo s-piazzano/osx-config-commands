@@ -30,4 +30,5 @@ brew cask install visual-studio-code
         #Material Icon Theme
         #Vetur
         #ESLint
+        #Prettier
         #filesize
